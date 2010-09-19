@@ -1,0 +1,25 @@
+html {
+    background: #000;
+    color: #ccc;
+    text-align: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-decoration: none;
+}
+
+li {
+    margin: 0;
+    padding: 0;
+}
+
+a, a:visited, a:active {
+    text-decoration: none;
+    color: #fc6;
+}
+
+a:hover {
+    text-decoration: underline;
+}
