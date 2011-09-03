@@ -1,6 +1,6 @@
 html {
-    background: #000;
-    color: #ccc;
+    background: #333;
+    color: #eee;
     text-align: center;
 }
 
@@ -15,9 +15,13 @@ li {
     padding: 0;
 }
 
-a, a:visited, a:active {
+a {
     text-decoration: none;
-    color: #fc6;
+    color: #69D2E7;
+}
+
+a:visited, a:active {
+    color: #FA6900;
 }
 
 a:hover {
